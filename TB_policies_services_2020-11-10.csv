@@ -1,0 +1,80 @@
+country,iso_numeric,g_whoregion,wrd_initial_test
+Afghanistan,4,EMR,1
+Albania,8,EUR,1
+Algeria,12,AFR,0
+American Samoa,16,WPR,0
+Andorra,20,EUR,0
+Angola,24,AFR,1
+Anguilla,660,AMR,1
+Antigua and Barbuda,28,AMR,1
+Argentina,32,AMR,0
+Armenia,51,EUR,1
+Aruba,533,AMR,1
+Australia,36,WPR,0
+Austria,40,EUR,1
+Azerbaijan,31,EUR,1
+Bahamas,44,AMR,1
+Bahrain,48,EMR,1
+Bangladesh,50,SEA,1
+Barbados,52,AMR,1
+Belarus,112,EUR,1
+Belgium,56,EUR,0
+Belize,84,AMR,1
+Benin,204,AFR,1
+Bermuda,60,AMR,0
+Bhutan,64,SEA,1
+Bolivia (Plurinational State of),68,AMR,1
+Bosnia and Herzegovina,70,EUR,1
+Botswana,72,AFR,1
+Brazil,76,AMR,1
+British Virgin Islands,92,AMR,
+Brunei Darussalam,96,WPR,0
+Bulgaria,100,EUR,1
+Burkina Faso,854,AFR,1
+Burundi,108,AFR,0
+Cabo Verde,132,AFR,0
+Cambodia,116,WPR,0
+Cameroon,120,AFR,1
+Canada,124,AMR,
+Cayman Islands,136,AMR,
+Central African Republic,140,AFR,1
+Chad,148,AFR,1
+Chile,152,AMR,1
+China,156,WPR,0
+"China, Hong Kong SAR",344,WPR,
+"China, Macao SAR",446,WPR,
+Colombia,170,AMR,0
+Comoros,174,AFR,
+Congo,178,AFR,1
+Cook Islands,184,WPR,
+Costa Rica,188,AMR,0
+Côte d'Ivoire,384,AFR,0
+Croatia,191,EUR,1
+Cuba,192,AMR,0
+Curaçao,531,AMR,
+Cyprus,196,EUR,
+Czechia,203,EUR,0
+Democratic People's Republic of Korea,408,SEA,1
+Democratic Republic of the Congo,180,AFR,1
+Denmark,208,EUR,0
+Djibouti,262,EMR,1
+Dominica,212,AMR,1
+Dominican Republic,214,AMR,1
+Ecuador,218,AMR,0
+Egypt,818,EMR,1
+El Salvador,222,AMR,0
+Equatorial Guinea,226,AFR,0
+Eritrea,232,AFR,1
+Estonia,233,EUR,1
+Eswatini,748,AFR,1
+Ethiopia,231,AFR,1
+Fiji,242,WPR,1
+Finland,246,EUR,1
+France,250,EUR,
+French Polynesia,258,WPR,
+Gabon,266,AFR,0
+Gambia,270,AFR,0
+Georgia,268,EUR,1
+Germany,276,EUR,
+Ghana,288,AFR,1
+Greece,300,EUR,0
